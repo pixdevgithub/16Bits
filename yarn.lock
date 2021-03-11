@@ -735,9 +735,9 @@ mongoose-legacy-pluralize@1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz"
 
-mongoose@^5.11.19:
-  version "5.11.19"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.11.19.tgz#fb20ee6145f4ca9bd757f87ed3ae9e13e92effde"
+mongoose@^5.11.20:
+  version "5.11.20"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.11.20.tgz#c774017c6dda4deb3fd01a46267f14f5f7e5fa97"
   dependencies:
     "@types/mongodb" "^3.5.27"
     bson "^1.1.4"
